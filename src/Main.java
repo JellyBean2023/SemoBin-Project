@@ -3,5 +3,6 @@ public class Main {
 
         System.out.println("SemoBin Project!");
         System.out.println("git fork test01");
+        System.out.println("git fork test02");
     }
 }
